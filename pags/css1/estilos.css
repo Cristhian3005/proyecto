@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(187, 159, 118);
+}
+.contenedor{
+    margin: 50px;
+    margin-top: 7%;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: coral;
+    padding: 80px;
+    border-radius: 80px;
+    display: flex;
+    flex-direction: column;
+}
+.rubik-beastly-regular {
+    font-family: "Rubik Beastly", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  .rubik-iso-regular {
+    font-family: "Rubik Iso", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rubik-broken fax-regular {
+    font-family: "Rubik Broken Fax", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .carousel-inner{
+    border-radius: 100px;
+  }
+a{
+    text-align: center;
+    margin-top: 5%;
+}
+.table{
+    margin: 100px;
+    margin-top: 20%;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: coral;
+    border-radius: 10px;
+    width: 1200px;
+}
+.a2{
+    text-align: center;
+}
+.caja{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: absolute;
+    justify-content: center;
+    top: 10%;
+    left: 20%;
+    align-items: center;
+    background-color: white;
+    width: 1200px;
+    height: 800px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.caja-r{
+    text-align: center;
+    margin-top: 2%;
+}
+.contenedor-5{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 10%;
+    left: 20%;
+    background-color: white;
+    width: 1200px;
+    height: 800px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.caja-nav{
+    justify-content: flex-start;
+}
+.carusel{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+    left: 1%;
+    position: relative;
+}
